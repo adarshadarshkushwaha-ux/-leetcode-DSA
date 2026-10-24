@@ -41,3 +41,15 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 ⭐ If you find this repository useful, feel free to explore it and follow my journey!
 
 **Thank you for visiting my repository!** 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
