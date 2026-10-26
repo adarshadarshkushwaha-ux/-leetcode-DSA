@@ -48,6 +48,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,12 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
