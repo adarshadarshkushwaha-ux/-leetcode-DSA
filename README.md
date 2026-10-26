@@ -70,4 +70,12 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
