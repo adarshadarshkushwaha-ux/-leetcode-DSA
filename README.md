@@ -49,6 +49,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | ------- |
 | [0001-two-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
