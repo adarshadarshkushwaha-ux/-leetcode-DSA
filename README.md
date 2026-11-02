@@ -49,6 +49,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | ------- |
 | [0001-two-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
@@ -83,6 +84,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
