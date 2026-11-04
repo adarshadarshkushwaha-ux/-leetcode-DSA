@@ -54,11 +54,13 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -98,4 +100,8 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
