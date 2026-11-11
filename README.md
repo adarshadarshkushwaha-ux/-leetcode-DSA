@@ -100,6 +100,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +121,20 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
