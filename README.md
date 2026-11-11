@@ -54,6 +54,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | [0039-combination-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0039-combination-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +116,8 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0039-combination-sum) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
