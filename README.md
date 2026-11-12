@@ -84,6 +84,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
