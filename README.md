@@ -126,17 +126,24 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
