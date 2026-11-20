@@ -131,18 +131,21 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -155,4 +158,8 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | ------- |
 | [0100-same-tree](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0112-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
