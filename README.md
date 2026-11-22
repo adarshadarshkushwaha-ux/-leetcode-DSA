@@ -87,6 +87,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
