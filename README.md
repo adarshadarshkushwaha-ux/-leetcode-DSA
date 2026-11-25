@@ -65,6 +65,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | ------- |
 | [0001-two-sum](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -88,6 +89,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | [0021-merge-two-sorted-lists](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -163,4 +166,8 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
