@@ -107,6 +107,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -170,4 +172,8 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
