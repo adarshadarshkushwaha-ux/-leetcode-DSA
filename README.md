@@ -67,10 +67,12 @@ Every solved problem represents a step forward in my learning journey. I aim to 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/adarshadarshkushwaha-ux/-leetcode-DSA/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
